@@ -2,6 +2,8 @@
 ### Team: Wit-AI-lab 
 #### Members: Yuanzhi Wang, Tao Lu, Yanduo Zhang, Yuntao Wu
 
+It contains the codes to attend NTIRE 2021: Depth-Guided Image Relighting Challenge Track 1: One-to-one relighting
+
 ## Prerequisites
 - Linux (Ubuntu 1604 or Windows 10)
 - Anaconda
