@@ -51,7 +51,7 @@ If you find the code helpful in your resarch or work, please cite the following 
 ```
 @inproceedings{mcn2021ntire,
     title     = {Multi-scale Self-calibrated Network for Image Light Source Transfer},
-    author    = {Yuanzhi Wang and Tao Lu and Yanduo Zhang and Yuntao Wu},
+    author    = {Yuanzhi Wang, and Tao, Lu and Yanduo, Zhang and Yuntao, Wu},
     booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
     year      = {2021}
 }
