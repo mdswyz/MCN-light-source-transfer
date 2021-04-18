@@ -3,6 +3,7 @@
 #### Members: Yuanzhi Wang, Tao Lu, Yanduo Zhang, Yuntao Wu
 
 It contains the codes to attend NTIRE 2021: Depth-Guided Image Relighting Challenge Track 1: One-to-one relighting
+Paper link: 
 
 ## Prerequisites
 - Linux (Ubuntu 1604 or Windows 10)
@@ -36,9 +37,13 @@ pip install kornia==0.2.0
 ```bash 
 pip install git+https://github.com/S-aiueo32/lpips-pytorch.git
 ```
+### Pre-trained model
+Please download pre-trained model
+Google drive link: [Download](https://drive.google.com/file/d/1PFD_uidOlqg5xqD9Wsz3RWX8Z4CmwT3s/view?usp=sharing)
+
 ### Testing
-- All test images are included in the `./dataset/NTIRE2021_TEST/test` folder.
-- The model for testing is placed in `./checkpoints/best_model/latest_net_G.pth`
+- Two test images are included in the `./dataset/NTIRE2021_TEST/test`
+- Please place the pre-trained model in `./checkpoints/best_model/latest_net_G.pth`
 - Test the model:
 ```bash
 python test.py
