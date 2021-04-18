@@ -66,4 +66,4 @@ If you find the code helpful in your resarch or work, please cite the following 
 ```
 
 ## Acknowledgments
-This code borrows heavily from [DeepRelight](https://github.com/WangLiwen1994/DeepRelight).
+This code borrows heavily from [DRN](https://github.com/WangLiwen1994/DeepRelight).
