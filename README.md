@@ -51,6 +51,8 @@ python test.py
 ```
 The test results will be saved to the folder: `./output`.
 
+### Training
+The training code will be released soon
 
 ### Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
