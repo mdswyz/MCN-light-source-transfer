@@ -57,19 +57,13 @@ The training code will be released soon
 ### Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
 ```
-@inproceedings{mcn2021ntire,
-    title     = {Multi-scale Self-calibrated Network for Image Light Source Transfer},
-    author    = {Yuanzhi, Wang and Tao, Lu and Yanduo, Zhang and Yuntao, Wu},
-    booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
-    year      = {2021}
-}
-```
-```
-@inproceedings{elhelou2021ntire,
-    title     = {{NTIRE} 2021: Depth-Guided Image Relighting Challenge},
-    author    = {El Helou, Majed and Zhou, Ruofan and S\"usstrunk, Sabine and Timofte, Radu and others},
-    booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
-    year      = {2021}
+@InProceedings{Wang_2021_CVPR,
+    author    = {Wang, Yuanzhi and Lu, Tao and Zhang, Yanduo and Wu, Yuntao},
+    title     = {Multi-Scale Self-Calibrated Network for Image Light Source Transfer},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2021},
+    pages     = {252-259}
 }
 ```
 
