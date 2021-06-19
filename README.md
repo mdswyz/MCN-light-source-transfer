@@ -4,7 +4,7 @@
 
 It contains the codes to attend NTIRE 2021: Depth-Guided Image Relighting Challenge Track 1: One-to-one relighting
 
-Paper link: [Arxiv](https://arxiv.org/pdf/2104.08838.pdf)
+Paper link: [CVPR2021W](https://openaccess.thecvf.com/content/CVPR2021W/NTIRE/html/Wang_Multi-Scale_Self-Calibrated_Network_for_Image_Light_Source_Transfer_CVPRW_2021_paper.html)
 
 ## Prerequisites
 - Linux (Ubuntu 1604 or Windows 10)
