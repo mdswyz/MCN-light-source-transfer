@@ -11,7 +11,7 @@ Paper link: [CVPR&NTIRE 2021](https://openaccess.thecvf.com/content/CVPR2021W/NT
 - Anaconda
 - Python 3.7
 - NVIDIA RTX2080Ti GPU (11G memory or larger) + CUDA10.2 + cuDNN
-- PyTorch1.5.0 (1.4.0 or 1.7.0 is ok)
+- PyTorch1.5.0 (1.4.0 or 1.7.0 are ok)
 - dominate
 - kornia 0.2.0
 - lpips-pytorch
