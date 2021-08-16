@@ -52,7 +52,10 @@ python test.py
 The test results will be saved to the folder: `./output`.
 
 ### Training
-The training code will be released soon
+```bash
+python train.py
+```
+Note that for the preparation of the dataset, please refer to [DRN](https://github.com/WangLiwen1994/DeepRelight)
 
 ### Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
