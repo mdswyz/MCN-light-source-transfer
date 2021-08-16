@@ -55,7 +55,8 @@ The test results will be saved to the folder: `./output`.
 ```bash
 python train.py
 ```
-Note that for the preparation of the dataset, please refer to [DRN](https://github.com/WangLiwen1994/DeepRelight)
+Note that for the preparation of the dataset, please refer to [DRN](https://github.com/WangLiwen1994/DeepRelight).
+Please set the dataset path in data/aligned_dataset.py (line 24)
 
 ### Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
